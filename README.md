@@ -1,4 +1,4 @@
-- NOME:Samnatha Emanuelly Dos Santos Alves N°32
+- NOME:Samantha Emanuelly Dos Santos Alves N°32
 # AV3 LOGICA COMPUTACIONAL
 - TABUADA
 - CALCULADORA SIMPLES
