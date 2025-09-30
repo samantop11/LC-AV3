@@ -2,7 +2,7 @@
 # AV3 LOGICA COMPUTACIONAL
 - TABUADA
 - CALCULADORA SIMPLES
-- usa o
+- 
 
 
 
@@ -13,7 +13,7 @@ uma tabuada criada em c le o numero digitado pelo usuario e o multiplica do 1 ao
 ## funcionalidade
 - le o numero digitado mpelo usuario.
 - imprime a tabuada.
-- while para criar repeticoes.
+- usa while para criar repeticoes.
 
 # COMO USAR
 - clone o repositorio do github
@@ -23,4 +23,10 @@ uma tabuada criada em c le o numero digitado pelo usuario e o multiplica do 1 ao
 ```sh
 gcc -o tabuada tabuada.c
 ```
+**para executar o codigo**
+```sh
+./tabuada
+```
+# EXEMPLO
+
 
