@@ -41,4 +41,5 @@ Tabuada do 6:
 6 x 9 = 54
 6 x 10 = 60
 ```
+# CALCULADORA SIMPLES
 
