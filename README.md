@@ -8,7 +8,7 @@
 
 
 
-# TABUADA EM C #2️⃣✖️2️⃣🟰4️⃣
+# TABUADA EM C 2️⃣✖️2️⃣🟰4️⃣
 uma tabuada criada em c le o numero digitado pelo usuario e o multiplica do 1 ao 10 usando while para repedicao.
 ## funcionalidade
 - lê o numero digitado mpelo usuario.
@@ -39,7 +39,7 @@ Tabuada do 6:
 6 x 10 = 60
 ```
 
-# CALCULADORA SIMPLES #👽1️⃣➕️1️⃣🟰2️⃣
+# CALCULADORA SIMPLES 👽1️⃣➕️1️⃣🟰2️⃣
 - esse programa é uma calculadora em c que tem:
 - Adição (+)
 - Subtração (-)
@@ -67,7 +67,7 @@ deseja continuar? (s/n): s
 
 ```
 
-# oredenador de numeros # 1️⃣2️⃣3️⃣4️⃣
+# oredenador de numeros 1️⃣2️⃣3️⃣4️⃣
 - ese programa l 5 numeros inteios e os ordena em ordem crescente.
 ## o que ele faz ##
 Pede ao usuário que digite 5 números inteiros.
