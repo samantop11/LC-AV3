@@ -41,5 +41,9 @@ Tabuada do 6:
 6 x 9 = 54
 6 x 10 = 60
 ```
-# CALCULADORA SIMPLES
-
+# CALCULADORA SIMPLES👽1️⃣➕️1️⃣🟰2️⃣
+-esse programa é uma calculadora em c que tem:
+-Adição (+)
+-Subtração (-)
+-Multiplicação (*)
+-Divisão (/)
