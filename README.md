@@ -43,7 +43,7 @@ Tabuada do 6:
 ```
 # CALCULADORA SIMPLES👽1️⃣➕️1️⃣🟰2️⃣
 -esse programa é uma calculadora em c que tem:
--Adição (+)
--Subtração (-)
--Multiplicação (*)
--Divisão (/)
+- Adição (+)
+- Subtração (-)
+- Multiplicação (*)
+- Divisão (/)
