@@ -15,7 +15,7 @@ uma tabuada criada em c le o numero digitado pelo usuario e o multiplica do 1 ao
 - imprime a tabuada.
 - usa while para criar repeticoes.
 
-# COMO USAR
+## COMO USAR ##
 **compile o codigo usando**
 ```sh
 gcc -o tabuada tabuada.c
@@ -24,7 +24,7 @@ gcc -o tabuada tabuada.c
 ```sh
 ./tabuada
 ```
-# EXEMPLO
+## em execução ##
 ```sh
 Tabuada do 6:
 6 x 1 = 6
