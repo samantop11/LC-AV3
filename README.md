@@ -82,7 +82,7 @@ gcc ordenar.c -o ordenar
 ```
 ## em execução ##
 ```
-digite 5 numeos inteiros:
+digite 5 numeros inteiros:
 Número 1: 12
 Número 2: 3
 Número 3: 7
