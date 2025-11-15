@@ -42,8 +42,21 @@ Tabuada do 6:
 6 x 10 = 60
 ```
 # CALCULADORA SIMPLES👽1️⃣➕️1️⃣🟰2️⃣
--esse programa é uma calculadora em c que tem:
+- esse programa é uma calculadora em c que tem:
 - Adição (+)
 - Subtração (-)
 - Multiplicação (*)
 - Divisão (/)
+## como funciona ##
+- O programa solicita ao usuário um operador matemático.
+- pede dois números.
+- Realiza a operação escolhida.
+- Exibe o resultado.
+- Pergunta ao usuário se deseja continuar (s para sim, n para não).
+- obs:divisao por zeo nao pode.
+## para executar ##
+- no terminal digite:
+```
+gcc calculadora.c -o calculadora
+./calculadora
+```
